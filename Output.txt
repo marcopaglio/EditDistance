@@ -1,0 +1,55 @@
+Cerchiamo le parole vicine a abbondanzio
+Senza nGram servono  3.040 s. 
+Senza nGram servono  3.084 s. 
+Senza nGram servono  3.013 s. 
+Senza nGram servono  3.063 s. 
+Senza nGram servono  3.076 s. 
+Le parole trovate sono :> ['abbondanzio', 'abbondanzia', 'abbondazio', 'abbondanza', 'abbondio', 'abbondia', 'abbondina']
+Con nGram servono  0.8031 s.
+Con nGram servono  0.7969 s.
+Con nGram servono  0.7950 s.
+Con nGram servono  0.7993 s.
+Con nGram servono  0.8109 s.
+Le parole trovate sono :> ['abbondanzio', 'abbondanzia', 'abbondanza']
+
+Cerchiamo le parole vicine a marca
+Senza nGram servono  1.393 s. 
+Senza nGram servono  1.455 s. 
+Senza nGram servono  1.434 s. 
+Senza nGram servono  1.410 s. 
+Senza nGram servono  1.474 s. 
+Le parole trovate sono :> ['marca', 'mara', 'marco', 'marga', 'maria', 'marica', 'marna']
+Con nGram servono  0.4479 s.
+Con nGram servono  0.4482 s.
+Con nGram servono  0.4474 s.
+Con nGram servono  0.4457 s.
+Con nGram servono  0.4605 s.
+Le parole trovate sono :> ['marca', 'marco']
+
+Cerchiamo le parole vicine a luha
+Senza nGram servono  1.141 s. 
+Senza nGram servono  1.120 s. 
+Senza nGram servono  1.112 s. 
+Senza nGram servono  1.112 s. 
+Senza nGram servono  1.115 s. 
+Le parole trovate sono :> ['luca', 'luna', 'aura', 'eura', 'lapa', 'lara', 'laura']
+Con nGram servono  0.3550 s.
+Con nGram servono  0.3634 s.
+Con nGram servono  0.3911 s.
+Con nGram servono  0.4897 s.
+Con nGram servono  0.3574 s.
+Le parole trovate sono :> []
+
+Cerchiamo le parole vicine a anna
+Senza nGram servono  1.219 s. 
+Senza nGram servono  1.131 s. 
+Senza nGram servono  1.177 s. 
+Senza nGram servono  1.143 s. 
+Senza nGram servono  1.139 s. 
+Le parole trovate sono :> ['anna', 'anca', 'anda', 'anno', 'anta', 'fanna', 'ianna']
+Con nGram servono  0.3525 s.
+Con nGram servono  0.3546 s.
+Con nGram servono  0.3551 s.
+Con nGram servono  0.3604 s.
+Con nGram servono  0.3846 s.
+Le parole trovate sono :> ['anna', 'fanna', 'ianna', 'janna', 'manna', 'nanna', 'vanna']
